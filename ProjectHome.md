@@ -1,0 +1,3 @@
+reFresh is Visual IDE for the Flat Assembly language.  It  was started back in 2007 and is a branch off of the project called Fresh which ceased development in 2007-2008.
+
+The project had a great goal in mind and was left unfinished and slightly buggy.  This project's aim was to pick up the pieces where it left off continue forward.  Adding on the latest FASM compiler, fixing various bugs in the IDE and cleaning up the code..
